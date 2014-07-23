@@ -7,7 +7,7 @@
     <title>
      <bibl><title>Mexico</title>,
 <date when="1930-04-05">Apr. 5, 1930</date>.
-<title level="a">The Problem of "La Cruz Azul Mexicana of Chicago -</title><title level="a" type="sub">By Narciso Gonzalez</title></bibl>
+<title level="a">The Problem of "La Cruz Azul Mexicana" of Chicago -</title><title level="a" type="sub">By Narciso Gonzalez</title></bibl>
     </title>
    </titleStmt>
    <publicationStmt>
@@ -44,7 +44,6 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-spanish"/>
-    <catRef target="#grp-mexican"/>
     <catRef target="#grp-spanish #code-II.D.1"/>
     <catRef target="#grp-spanish #code-I.B.3.c"/>
     <catRef target="#grp-spanish #code-I.D.2.c"/>
@@ -74,7 +73,7 @@
    <div type="citation">
     <bibl><title>Mexico</title>,
 <date when="1930-04-05">Apr. 5, 1930</date>.
-<title level="a">THE PROBLEM OF "LA CRUZ AZUL MEXICANA OF CHICAGO -</title><title level="a" type="sub">By Narciso Gonzalez</title></bibl>
+<title level="a">THE PROBLEM OF "LA CRUZ AZUL MEXICANA" OF CHICAGO -</title><title level="a" type="sub">By Narciso Gonzalez</title></bibl>
    </div>
   </front>
   <body>

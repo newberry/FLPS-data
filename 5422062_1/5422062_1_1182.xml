@@ -5,7 +5,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Saloniki</title>,
+     <bibl><title>Saloniki-Greek Press</title>,
 <date when="1914-01-31">Jan. 31, 1914</date>.
 <title level="a">The Chicago Greeks and the Serbian Anniversary</title></bibl>
     </title>
@@ -48,7 +48,7 @@
     <catRef target="#grp-greek #code-III.H"/>
     <catRef target="#grp-greek #code-IV"/>
     <catRef target="#grp-serbian #code-III.B.3.a"/>
-    <catRef target="#grp-serbian #code-III.B.3.a"/>
+    <catRef target="#grp-serbian #code-I.C"/>
    </textClass>
   </profileDesc>
   <revisionDesc>

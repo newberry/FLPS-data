@@ -5,7 +5,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Chicago Arbeiter Zeitung</title>,
+     <bibl><title>Chicagoer Arbeiter Zeitung</title>,
 <date when="1888-08-02">Aug. 2, 1888</date>.
 <title level="a">[Raster and the Two Political Parties]</title></bibl>
     </title>
@@ -44,6 +44,7 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.5"/>
     <catRef target="#grp-german #code-II.B.2.d.1"/>
     <catRef target="#grp-german #code-I.F.6"/>
     <catRef target="#grp-german #code-I.F.4"/>
@@ -65,6 +66,7 @@
    </div>
    <div type="codes">
     <list>
+     <item>I F 5</item>
      <item>II B 2 d (1)</item>
      <item>I F 6</item>
      <item>I F 4</item>

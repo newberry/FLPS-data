@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
      <bibl><title>Interview, with Mr. Valeriano Lopez</title>, Owner of the Lopez Wood Carving Company, 2520 S. Western Avenue, by Victor Chavez,
 <date when="1937-03-04">March 4, 1937</date>.
-
         </bibl>
     </title>
    </titleStmt>
@@ -47,6 +45,7 @@
     <catRef target="#grp-spanish"/>
     <catRef target="#grp-spanish #code-II.A.2"/>
     <catRef target="#grp-spanish #code-IV"/>
+   <catRef target="#source-interview"/>
    </textClass>
   </profileDesc>
   <revisionDesc>

@@ -43,7 +43,6 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-spanish"/>
-    <catRef target="#grp-mexican"/>
     <catRef target="#grp-spanish #code-III.C"/>
     <catRef target="#grp-spanish #code-I.K"/>
     <catRef target="#grp-spanish #code-II.B.1.c.1"/>
@@ -76,8 +75,8 @@
    </div>
   </front>
   <body>
-   <p>The Ladies Missionary Society, will celebrate its anniversary in the Good Pastor Church, located at <gap unit="words" extent="unk" reason="illegible"/>Streets, with a magnificent program which it is hoped will have pleasure to those who attend.</p>
-   <p>The mentioned Society has extended an invitation to the Colony that it might take advantage of this public function. The <gap unit="words" extent="unk" reason="illegible"/>"Las Vaces <gap unit="words" extent="unk" reason="illegible"/>" will be presented and will be played by the <gap unit="words" extent="unk" reason="illegible"/>if our Colony.</p>
+   <p>The Ladies Missionary Society, will celebrate its anniversary in the Good Pastor Church, located at Polk and Sholto Streets, with a magnificent program which it is hoped will have pleasure to those who attend.</p>
+   <p>The mentioned Society has extended an invitation to the Colony that it might take advantage of this public function. The drama "Las Vaces Femeniles" will be presented and will be played by the outstanding artists of our Colony.</p>
   </body>
  </text>
 </TEI>

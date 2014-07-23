@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Dziennik Zwiazkowy</title>,
+     <bibl><title>Dziennik Związkowy</title>,
 <date when="1911-11-07">Nov. 7, 1911</date>.
 <title level="a">Health and Sanitation</title></bibl>
     </title>
@@ -44,7 +43,7 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-polish"/>
-    <catRef target="#grp-polish #code-I.H"/>
+    <catRef target="#grp-polish #code-I.M"/>
     <catRef target="#grp-polish #code-II.B.2.g"/>
     <catRef target="#grp-polish #code-I.C"/>
     <catRef target="#grp-lithuanian #code-I.M"/>
@@ -65,7 +64,7 @@
    </div>
    <div type="codes">
     <list>
-     <item>I H</item>
+     <item>I M</item>
      <item>II B 2 g</item>
      <item>I C</item>
      <item>I M (Lithuanian)</item>

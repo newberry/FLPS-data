@@ -5,7 +5,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Saloniki</title>,
+     <bibl><title>Saloniki-Greek Press</title>,
 <date when="1923-03-10">Mar. 10, 1923</date>.
 <title level="a">A Great National Event.</title></bibl>
     </title>
@@ -44,6 +44,7 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.3.d.2"/>
     <catRef target="#grp-greek #code-II.A.3.d.1"/>
     <catRef target="#grp-greek #code-II.B.2.d.1"/>
     <catRef target="#grp-greek #code-II.A.3.a"/>

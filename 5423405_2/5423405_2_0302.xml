@@ -7,7 +7,7 @@
     <title>
      <bibl><title>El Nacional</title>,
 <date when="1933-04-29">Apr. 29, 1933</date>.
-<title level="a">Mexican Colony Celebrates May 5Th Holiday</title></bibl>
+<title level="a">Mexican Colony Celebrates May 5th Holiday</title></bibl>
     </title>
    </titleStmt>
    <publicationStmt>
@@ -44,7 +44,6 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-spanish"/>
-    <catRef target="#grp-mexican"/>
     <catRef target="#grp-spanish #code-III.B.3.a"/>
     <catRef target="#grp-spanish #code-III.H"/>
     <catRef target="#grp-spanish #code-III.B.2"/>

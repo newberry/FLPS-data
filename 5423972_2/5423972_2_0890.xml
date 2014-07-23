@@ -5,7 +5,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Sunday Jewish Courier</title>,
+     <bibl><title>Daily Jewish Courier</title>,
 <date when="1919-05-25">May 25, 1919</date>.
 <title level="a">The Goading of Chicago Polish Newspapers</title></bibl>
     </title>
@@ -46,7 +46,7 @@
     <catRef target="#grp-jewish"/>
     <catRef target="#grp-jewish #code-I.C"/>
     <catRef target="#grp-polish #code-I.C"/>
-    <catRef target="#grp-polish #code-I.C"/>
+    <catRef target="#grp-polish #code-IV"/>
     <catRef target="#grp-jewish #code-III.H"/>
    </textClass>
   </profileDesc>

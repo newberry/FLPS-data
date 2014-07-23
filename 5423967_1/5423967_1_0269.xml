@@ -6,7 +6,7 @@
    <titleStmt>
     <title>
      <bibl>
-      <title>Rassviet</title>
+      <title>Rassviet (The Dawn)</title>
       <date when="1929-09-10">September 10, 1929</date>
       <title level="a">Russian Colonist Builds House of Three Stories</title>
      </bibl>
@@ -46,6 +46,7 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-I.C"/>
    </textClass>
   </profileDesc>
   <revisionDesc>
@@ -59,6 +60,11 @@
    <div type="group">
     <list>
      <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
     </list>
    </div>
    <div type="citation">

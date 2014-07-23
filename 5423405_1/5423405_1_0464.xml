@@ -7,7 +7,7 @@
     <title>
      <bibl><title>El Nacional</title>,
 <date when="1933-05-13">May 13, 1933</date>.
-<title level="a">The United Mexican Clubs Commemorate the 5Th of May</title></bibl>
+<title level="a">The United Mexican Clubs Commemorate the 5th of May</title></bibl>
     </title>
    </titleStmt>
    <publicationStmt>
@@ -44,7 +44,6 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-spanish"/>
-    <catRef target="#grp-mexican"/>
     <catRef target="#grp-spanish #code-II.B.1.c.3"/>
     <catRef target="#grp-spanish #code-III.B.3.a"/>
    </textClass>

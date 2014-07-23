@@ -5,7 +5,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Saloniki</title>,
+     <bibl><title>Saloniki-Greek Press</title>,
 <date when="1926-11-06">Nov. 6, 1926</date><title level="a">Real Estate Transactions.</title></bibl>
     </title>
    </titleStmt>
@@ -43,6 +43,7 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.F"/>
     <catRef target="#grp-greek #code-II.A.2"/>
    </textClass>
   </profileDesc>
@@ -61,6 +62,7 @@
    </div>
    <div type="codes">
     <list>
+     <item>II F</item>
      <item>II A 2</item>
     </list>
    </div>

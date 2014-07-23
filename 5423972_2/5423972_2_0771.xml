@@ -5,7 +5,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Sunday Jewish Courier</title>,
+     <bibl><title>Daily Jewish Courier</title>,
 <date when="1919-07-27">July 27, 1919</date>.
 <title level="a">On the Community Stage</title><title level="a" type="sub">by J. Leibner</title></bibl>
     </title>
@@ -46,7 +46,7 @@
     <catRef target="#grp-jewish"/>
     <catRef target="#grp-jewish #code-I.C"/>
     <catRef target="#grp-polish #code-II.E.2"/>
-    <catRef target="#grp-polish #code-II.E.2"/>
+    <catRef target="#grp-polish #code-I.C"/>
    </textClass>
   </profileDesc>
   <revisionDesc>

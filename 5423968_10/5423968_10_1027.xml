@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -52,7 +51,7 @@
     <catRef target="#grp-polish #code-II.B.2.a"/>
     <catRef target="#grp-polish #code-II.B.1.e"/>
     <catRef target="#grp-polish #code-I.A.2.a"/>
-    <catRef target="#grp-polish #code-I.D.2.a"/>
+    <catRef target="#grp-polish #code-I.D.2.c"/>
     <catRef target="#grp-polish #code-III.B.2"/>
     <catRef target="#grp-polish #code-II.D.10"/>
     <catRef target="#grp-polish #code-II.D.1"/>
@@ -86,7 +85,7 @@
      <item>II B 2 a</item>
      <item>II B 1 e</item>
      <item>I A 2 a</item>
-     <item>I D 2 a</item>
+     <item>I D 2 c</item>
      <item>III B 2</item>
      <item>II D 10</item>
      <item>II D 1</item>

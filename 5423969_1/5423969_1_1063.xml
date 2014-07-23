@@ -5,7 +5,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Skandinaven (Daily Edition)</title>,
+     <bibl><title>Skandinaven</title>,
 <date when="1914-08-21">Aug. 21, 1914</date>.
 <title level="a">Dovre Club</title></bibl>
     </title>
@@ -47,8 +47,8 @@
     <catRef target="#grp-norwegian #code-I.F.3"/>
     <catRef target="#grp-norwegian #code-IV"/>
     <catRef target="#grp-danish #code-I.F.2"/>
-    <catRef target="#grp-danish #code-I.F.2"/>
-    <catRef target="#grp-danish #code-I.F.2"/>
+    <catRef target="#grp-danish #code-I.F.3"/>
+    <catRef target="#grp-danish #code-IV"/>
    </textClass>
   </profileDesc>
   <revisionDesc>

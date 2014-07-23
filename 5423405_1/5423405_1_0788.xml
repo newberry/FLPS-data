@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Mexico</title>, <date when="1930">1930</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -40,7 +40,6 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-spanish"/>
-    <catRef target="#grp-mexican"/>
     <catRef target="#grp-spanish #code-II.D.7"/>
     <catRef target="#grp-spanish #code-III.B.2"/>
     <catRef target="#grp-spanish #code-II.E.2"/>
@@ -66,6 +65,7 @@
      <item>III B 2</item>
      <item>II E 2</item>
     </list>
+   </div><div type="citation"><bibl><title>Mexico</title>, <date when="1930">1930</date></bibl>
    </div>
   </front>
   <body>

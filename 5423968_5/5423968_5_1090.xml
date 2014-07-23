@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
      <bibl><title>Dziennik Chicagoski</title>,
 <date when="1891-12-30">Dec. 30, 1891</date>.
-<title level="a">Polish Activites</title></bibl>
+<title level="a">Polish Activities</title></bibl>
     </title>
    </titleStmt>
    <publicationStmt>

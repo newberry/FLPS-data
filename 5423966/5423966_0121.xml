@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
      <bibl><title>Memorial Book of the Serbian Benevolent Society St. George</title>,
 <date when="1935-05-05">May 5, 1935</date>.
-<title level="a">25Th Anniversary</title></bibl>
+<title level="a">25th Anniversary</title></bibl>
     </title>
    </titleStmt>
    <publicationStmt>
@@ -46,6 +45,7 @@
     <catRef target="#grp-serbian"/>
     <catRef target="#grp-serbian #code-II.D.1"/>
     <catRef target="#grp-serbian #code-II.D.10"/>
+   <catRef target="#source-association-docs"/>
    </textClass>
   </profileDesc>
   <revisionDesc>

@@ -5,7 +5,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Die Abendpost</title>,
+     <bibl><title>Abendpost</title>,
 <date when="1894-12-10">December 10, 1894</date>.
 <title level="a">A Day of Honor for H. Rubens</title></bibl>
     </title>
@@ -47,7 +47,7 @@
     <catRef target="#grp-german #code-IV"/>
     <catRef target="#grp-german #code-II.B.1.a"/>
     <catRef target="#grp-german #code-II.A.3.c"/>
-    <catRef target="#grp-german #code-II.A.1"/>
+    <catRef target="#grp-german #code-II.A.2"/>
    </textClass>
   </profileDesc>
   <revisionDesc>
@@ -68,7 +68,7 @@
      <item>IV</item>
      <item>II B 1 a</item>
      <item>II A 3 c</item>
-     <item>II A 1</item>
+     <item>II A 2</item>
     </list>
    </div>
    <div type="citation">

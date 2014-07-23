@@ -5,7 +5,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Illinois Staats Zeitung</title>,
+     <bibl><title>Illinois Staats-Zeitung</title>,
 <date when="1893-03-18">Mar. 18, 1893</date>.
 <title level="a">Nettelhorst's Legacy to the Germans.</title></bibl>
     </title>
@@ -44,6 +44,7 @@
   <profileDesc>
    <textClass>
     <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
     <catRef target="#grp-german #code-I.A.1.b"/>
     <catRef target="#grp-german #code-I.A.2.b"/>
     <catRef target="#grp-german #code-I.F.5"/>
@@ -68,6 +69,7 @@
    </div>
    <div type="codes">
     <list>
+     <item>IV</item>
      <item>I A 1 b</item>
      <item>I A 2 b</item>
      <item>I F 5</item>

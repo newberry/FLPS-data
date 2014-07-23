@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Miscellaneous Material Owned by Dr. H. R. Krasnow</title>, 4601 North Broadway, Chicago, Illinois.
-
+     <bibl><title>Miscellaneous Material Owned by Dr. H. R. Krasnow</title>, 4601 North Broadway, Chicago, Illinois. <date when="1923">1923</date>
         </bibl>
     </title>
    </titleStmt>
@@ -46,6 +44,7 @@
     <catRef target="#grp-russian"/>
     <catRef target="#grp-russian #code-II.B.2.g"/>
     <catRef target="#grp-russian #code-I.E"/>
+   <catRef target="#source-miscellaneous"/>
    </textClass>
   </profileDesc>
   <revisionDesc>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
      <bibl>
-      <title>Memorial Book, 1913-1933, of the Croatian Catholic Sacred Heart Church in South Chicago.</title>
+      <title>Memorial Book, 1913-<date when="1933">1933</date>, of the Croatian Catholic Sacred Heart Church in South Chicago.</title>
       <title level="a">The Croats in South Chicago</title>
      </bibl>
     </title>
@@ -48,6 +47,7 @@
     <catRef target="#grp-croatian #code-I.B.4"/>
     <catRef target="#grp-croatian #code-I.C"/>
     <catRef target="#grp-croatian #code-IV"/>
+   <catRef target="#source-association-docs"/>
    </textClass>
   </profileDesc>
   <revisionDesc>

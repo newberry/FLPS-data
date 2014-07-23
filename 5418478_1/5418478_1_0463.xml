@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -45,7 +44,7 @@
    <textClass>
     <catRef target="#grp-bohemian"/>
     <catRef target="#grp-bohemian #code-I.B.1"/>
-    <catRef target="#grp-bohemian #code-I.C"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
    </textClass>
   </profileDesc>
   <revisionDesc>
@@ -64,7 +63,7 @@
    <div type="codes">
     <list>
      <item>I B 1</item>
-     <item>I C</item>
+     <item>I G</item>
     </list>
    </div>
    <div type="citation">

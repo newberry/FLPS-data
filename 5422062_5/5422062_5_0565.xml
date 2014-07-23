@@ -4,7 +4,13 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+	<title>
+     <bibl>
+      <title>Saloniki</title>
+      <date when="1927-05-07">May 7, 1927</date>
+      <title level="a">Wherever There is a Carrion There are the Crows.</title>
+     </bibl>
+    </title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -63,11 +69,17 @@
      <item>III H</item>
     </list>
    </div>
+       <div type="citation">
+    <bibl>
+     <title>Saloniki</title>
+     <date when="1927-05-07">May 7, 1927</date>
+     <title level="a">Wherever There is a Carrion There are the Crows.</title>
+    </bibl>
+   </div>
   </front>
   <body>
-   <p>
-    <gap unit="sheet" extent="1" reason="[blank]"/>
-   </p>
+   <p>The Ecumenical Patriarchate, excommunicated and condemned Basil Comvopoulos, former Metropolitan Bishop of Haldias, who until now had been officiating in Chicago, for being an apostate.</p>
+   <p>This extreme and punitive measure was absolutely necessary for the safeguard, not only of the clergy, but also for the welfare, harmony, and religious pursuits of the laity. The Holy Synod deemed it also advisible to send to the Greeks of Chicago, an appeal for unity and obedience to the Mother Church.</p>
   </body>
  </text>
 </TEI>

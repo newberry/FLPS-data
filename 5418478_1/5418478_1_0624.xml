@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Denni Hlasatel</title>,
+     <bibl><title>Denní Hlasatel</title>,
 <date when="1915-10-18">Oct. 18, 1915</date>.
 <title level="a">Fifty-Two Saloons Were Open</title></bibl>
     </title>
@@ -45,7 +44,7 @@
    <textClass>
     <catRef target="#grp-bohemian"/>
     <catRef target="#grp-bohemian #code-I.B.2"/>
-    <catRef target="#grp-bohemian #code-II.B.2"/>
+    <catRef target="#grp-bohemian #code-II.E.2"/>
    </textClass>
   </profileDesc>
   <revisionDesc>
@@ -64,7 +63,7 @@
    <div type="codes">
     <list>
      <item>I B 2</item>
-     <item>II B 2</item>
+     <item>II E 2</item>
     </list>
    </div>
    <div type="citation">
